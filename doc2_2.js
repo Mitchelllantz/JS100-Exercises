@@ -1,0 +1,1 @@
+//boolean, Number, String, Undefined, Null, bigInt, symbol
