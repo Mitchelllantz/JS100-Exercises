@@ -1,0 +1,3 @@
+let alphabet = 'abcdefghijklmnopqrstuvwxyz';
+let newAlphabet = alphabet.split("");
+console.log(newAlphabet);
